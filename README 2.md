@@ -103,8 +103,9 @@ aztec add-l1-validator \
   --proposer-eoa YOUR-VALIDATOR-ADDRESS \
   --staking-asset-handler 0xF739D03e98e23A7B65940848aBA8921fF3bAc4b2 \
   --l1-chain-id 11155111
-
-https://t.me/+MpK47OQdzao4OTk1
 ```
 
+```bash
+https://t.me/+MpK47OQdzao4OTk1
+```
 
