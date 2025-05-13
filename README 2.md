@@ -1,5 +1,5 @@
 # Aztec-sequencer-node
-One-click sequencer node run guide by SAGE AIRDROPS and thanks to the aztec team. Special Mention - Aditya for making the Noed Run Guide
+Noed Run Guide
 
 Aztec is building a decentralized, privacy-focused network and the sequencer node is a key part of it. Running a sequencer helps produce and propose blocks using regular consumer hardware. This guide will walk you through setting one up on the testnet.
 
@@ -33,7 +33,7 @@ Aztec is building a decentralized, privacy-focused network and the sequencer nod
 
 - Get Sepolia Ethereum RPC from [Alchemy](https://dashboard.alchemy.com/apps) or [Infura](https://developer.metamask.io/register).
 - Get Consensus URL (Beacon RPC) from [Chainstack](https://chainstack.com/global-nodes).
-- Create a new EVM wallet and fund it with **at least 2.5 Sepolia ETH** if you want to register as Validator.
+- Create a new EVM wallet and fund it with **at least 3 Sepolia ETH** if you want to register as Validator.
 
 > **IMPORTANT**  
 > If you’re using the free version and hit the max request limit on either RPC, upgrade or rotate the endpoints.
@@ -103,4 +103,8 @@ aztec add-l1-validator \
   --proposer-eoa YOUR-VALIDATOR-ADDRESS \
   --staking-asset-handler 0xF739D03e98e23A7B65940848aBA8921fF3bAc4b2 \
   --l1-chain-id 11155111
+
+https://t.me/+MpK47OQdzao4OTk1
 ```
+
+
